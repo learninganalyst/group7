@@ -1,2 +1,2 @@
 # group7
-Machine Learning Group Project Waterloo University 
+Machine Learning Group Project at Waterloo University 
